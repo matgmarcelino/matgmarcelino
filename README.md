@@ -1,6 +1,6 @@
 # Matheus Marcelino
 
-Computer Science student at Salt Lake Community College and a full-time Data Labeler on Tesla's Autopilot team in Draper, Utah, working on the data that trains their AI models. I build things the rest of the time.
+Computer Science student at Salt Lake Community College and a full-time Data Labeler at Tesla in Draper, Utah, working on the data that trains their AI models. I build things the rest of the time.
 
 Graduating with my Associate of Science in Computer Science in spring 2027, then continuing toward a bachelor's. **Currently looking for software engineering internships in the Salt Lake City area.**
 
@@ -32,7 +32,7 @@ Data structures and algorithms, object-oriented design, unit testing with JUnit 
 
 ### Elsewhere
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/matheus-g-marcelino)
-- Email: [Email](matgmarcelino@gmail.com)
+- LinkedIn: [your-linkedin-url]
+- Email: [your-email]
 
 English and Portuguese (native), Spanish (conversational).
