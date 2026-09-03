@@ -32,7 +32,7 @@ Data structures and algorithms, object-oriented design, unit testing with JUnit 
 
 ### Elsewhere
 
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
+- LinkedIn: [Link](https://www.linkedin.com/in/matheus-g-marcelino/)
+- Email: [Email Me](mailto:matgmarcelino@gmail.com)
 
 English and Portuguese (native), Spanish (conversational).
